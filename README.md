@@ -1,0 +1,4 @@
+# Proyectos experimentales
+
+- RS sampling
+
